@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content:center;
+    background-color: #b7c9e2;
+   position: relative; 
+}
+
+
+.card{
+    width: 320pox;
+    padding: 16px;
+    border: 2px solid white;
+    border-radius: 20px;
+    background-color: white;
+    position: absolute;
+    top: 50px;
+}
+img{
+    width:100%;
+}
+h2{
+    font-size: 30px;
+}
+
+p{
+    font-size: 15px;
+}
